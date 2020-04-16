@@ -21,3 +21,10 @@ Download the repository and use the following to run:
 | imgs  | Images for demonstration  | 
 | result43.jpg  | Output of demo43 | 
 | result45.jpg  | Output of demo45 | 
+| result42.jpg  | Output of demo42 | 
+## Demo 43
+![Demo 43 result](result43.jpg)
+## Demo 45
+![Demo 45 result](result45.jpg)
+## Demo 42
+![Demo 42 result](result42.jpg)
